@@ -1,0 +1,14 @@
+/home/daniel/git/designpatterns/src/FactoryMethod/bin/Debug/net8.0/FactoryMethod
+/home/daniel/git/designpatterns/src/FactoryMethod/bin/Debug/net8.0/FactoryMethod.deps.json
+/home/daniel/git/designpatterns/src/FactoryMethod/bin/Debug/net8.0/FactoryMethod.runtimeconfig.json
+/home/daniel/git/designpatterns/src/FactoryMethod/bin/Debug/net8.0/FactoryMethod.dll
+/home/daniel/git/designpatterns/src/FactoryMethod/bin/Debug/net8.0/FactoryMethod.pdb
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.AssemblyInfo.cs
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.dll
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/refint/FactoryMethod.dll
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.pdb
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/FactoryMethod.genruntimeconfig.cache
+/home/daniel/git/designpatterns/src/FactoryMethod/obj/Debug/net8.0/ref/FactoryMethod.dll
